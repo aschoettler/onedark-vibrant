@@ -1,0 +1,27 @@
+{
+  "name": "onedark-vibrant-vscode",
+  "displayName": "OneDark Vibrant",
+  "description": "A high-contrast punchy theme based on Atom One Dark",
+  "version": "1.1.0",
+  "publisher": "onedark-vibrant-theme-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aschoettler/onedark-vibrant.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneDark Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Vibrant.json"
+      }
+    ]
+  }
+}
