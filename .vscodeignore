@@ -3,3 +3,6 @@
 .gitignore
 vsc-extension-quickstart.md
 **/*.map
+flake.nix
+flake.lock
+onedark-vibrant.toml
