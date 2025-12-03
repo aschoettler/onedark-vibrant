@@ -1,4 +1,4 @@
-# OneDark Vibrant
+# OneDark Vibrant Theme for VS Code
 
 A high-contrast modification of Atom One Dark
 
@@ -7,7 +7,9 @@ A high-contrast modification of Atom One Dark
 - High contrast dark theme
 - Vibrant syntax highlighting
 
-## Nix / Helix Usage
+---
+
+# Usage for Helix / NixOS
 
 This repository provides a [flake](https://nixos.wiki/wiki/Flakes) containing [Home Manager](https://nix-community.github.io/home-manager/) modules for setting up this theme, specifically for the Helix editor.
 
