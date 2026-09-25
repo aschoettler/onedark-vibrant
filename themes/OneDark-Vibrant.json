@@ -96,6 +96,25 @@
     "notebook.focusedCellBorder": "#6DB3F2",
     "notebook.cellBorderColor": "#2F3443"
   },
+  "semanticTokenColors": {
+    "comment:nix": { "foreground": "#6A737D", "italic": true },
+    "keyword:nix": "#C69AF7",
+    "operator:nix": "#DCDFE4",
+    "punctuation:nix": "#DCDFE4",
+    "embedded:nix": "#DCDFE4",
+    "label:nix": "#DCDFE4",
+    "string:nix": "#8CCF7E",
+    "constant:nix": "#E0C787",
+    "constant.numeric:nix": "#FF9E64",
+    "constant.builtin.boolean:nix": "#FF9E64",
+    "constant.character.escape:nix": "#76E0EA",
+    "function:nix": "#6DB3F2",
+    "function.builtin:nix": "#76E0EA",
+    "variable:nix": "#DCDFE4",
+    "variable.parameter:nix": "#DCDFE4",
+    "variable.builtin:nix": "#F7768E",
+    "variable.other.member:nix": "#F7768E"
+  },
   "tokenColors": [
     {
       "scope": ["comment", "punctuation.definition.comment"],

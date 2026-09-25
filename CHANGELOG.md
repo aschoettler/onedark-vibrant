@@ -2,6 +2,10 @@
 
 All notable changes to the "onedark-vibrant-vscode" extension will be documented in this file.
 
+## 1.3.0
+
+- Added semantic token colors for Nix.
+
 ## 1.2.0
 
 - Fixed theme path casing in package.json.
