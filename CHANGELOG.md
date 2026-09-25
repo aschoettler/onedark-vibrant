@@ -4,7 +4,8 @@ All notable changes to the "onedark-vibrant-vscode" extension will be documented
 
 ## 1.3.0
 
-- Added semantic token colors for Nix.
+- Added semantic token colors for Nix, including markdown styles for embedded markdown.
+- Suggests Helix Nix Highlighting for Nix files.
 
 ## 1.2.0
 

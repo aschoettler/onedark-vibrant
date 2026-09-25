@@ -2,6 +2,10 @@
 
 A high-contrast modification of Atom One Dark
 
+For Nix files, pair it with [Helix Nix Highlighting](https://github.com/aschoettler/helix-nix-vscode),
+which colors Nix the way the Helix editor does. The theme includes colors for
+its tokens.
+
 ## Features
 
 - High contrast dark theme
