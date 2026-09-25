@@ -6,3 +6,5 @@ vsc-extension-quickstart.md
 flake.nix
 flake.lock
 onedark-vibrant.toml
+helix-themes/**
+launch.json

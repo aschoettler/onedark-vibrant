@@ -2,6 +2,10 @@
 
 All notable changes to the "onedark-vibrant-vscode" extension will be documented in this file.
 
+## 1.3.1
+
+- README covers the VS Code theme; Helix setup moves to helix-themes/README.md.
+
 ## 1.3.0
 
 - Added semantic token colors for Nix, including markdown styles for embedded markdown.

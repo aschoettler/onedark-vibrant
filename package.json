@@ -2,7 +2,7 @@
   "name": "onedark-vibrant-vscode",
   "displayName": "OneDark Vibrant",
   "description": "A high-contrast punchy theme based on Atom One Dark. For Nix, pair it with Helix Nix Highlighting.",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "publisher": "onedark-vibrant-theme-dev",
   "repository": {
     "type": "git",
