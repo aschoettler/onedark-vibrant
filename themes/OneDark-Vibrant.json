@@ -133,7 +133,16 @@
     "markup-list:nix": "#F7768E",
     "markup-quote:nix": { "foreground": "#6A737D", "italic": true },
     "markup-link-url:nix": { "foreground": "#C69AF7", "underline": true },
-    "markup-link-text:nix": "#81BCF1"
+    "markup-link-text:nix": "#81BCF1",
+    "builtinType:rust": "#60D1C3",
+    "struct.defaultLibrary:rust": "#60D1C3",
+    "enum.defaultLibrary:rust": "#60D1C3",
+    "typeAlias.defaultLibrary:rust": "#60D1C3",
+    "enumMember:rust": "#81BCF1",
+    "enumMember.declaration:rust": "#E0C787",
+    "enumMember.defaultLibrary:rust": "#E0C787",
+    "decorator:rust": "#76E0EA",
+    "derive:rust": "#E0C787"
   },
   "tokenColors": [
     {

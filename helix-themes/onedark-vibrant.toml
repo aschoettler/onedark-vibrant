@@ -23,8 +23,6 @@
 
 "type" = { fg = "yellow" }
 "type.builtin" = { fg = "teal" }
-"type.enum.variant" = { fg = "blue" }
-"type.enum.variant.builtin" = { fg = "yellow" }
 "variable.builtin" = { fg = "red" }
 "variable.parameter" = { fg = "fg" }
 "variable.other.member" = { fg = "red" }

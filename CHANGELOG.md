@@ -2,6 +2,11 @@
 
 All notable changes to the "onedark-vibrant-vscode" extension will be documented in this file.
 
+## 1.7.0
+
+- VS Code: with rust-analyzer semantic highlighting on, std types (`Box`, `Vec`, `String`, `Option`) and primitives are teal, enum variants are yellow where declared and blue where used, and `Some`, `None`, `Ok` and `Err` are yellow.
+- Helix: enum variant definitions are yellow again. Constructors stay blue.
+
 ## 1.6.0
 
 - VS Code: namespaces are yellow italic, numeric and primitive types are teal, and Rust attribute names like `derive` are cyan.
