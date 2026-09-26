@@ -118,7 +118,7 @@
     "special:nix": "#76E0EA",
     "string:nix": "#8CCF7E",
     "type:nix": "#E0C787",
-    "type-builtin:nix": "#76E0EA",
+    "type-builtin:nix": "#60D1C3",
     "variable:nix": "#DCDFE4",
     "variable-builtin:nix": "#F7768E",
     "variable-parameter:nix": "#DCDFE4",
@@ -199,7 +199,7 @@
     {
       "scope": ["support.type", "support.class"],
       "settings": {
-        "foreground": "#76E0EA"
+        "foreground": "#60D1C3"
       }
     },
     {

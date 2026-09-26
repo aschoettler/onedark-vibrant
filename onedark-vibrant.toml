@@ -21,7 +21,7 @@
 "string" = { fg = "green" }
 
 "type" = { fg = "yellow" }
-"type.builtin" = { fg = "cyan" } 
+"type.builtin" = { fg = "teal" }
 "variable.builtin" = { fg = "red" }
 "variable.parameter" = { fg = "fg" }
 "variable.other.member" = { fg = "red" }
@@ -152,6 +152,8 @@ green = "#8CCF7E"
 # cyan = "#1ED8EA" # contrast 9, H 185
 # cyan = "#9AEDFE" # contrast 12.8, H 190
 cyan = "#76E0EA"
+# builtin types, set apart from cyan builtin functions
+teal = "#60D1C3"
 # markdown heading markers
 pink = "#F776CE"
 
