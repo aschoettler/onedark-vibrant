@@ -6,6 +6,7 @@
 "constant.numeric" = { fg = "orange" }
 "constant.builtin" = { fg = "yellow" }
 "constant.builtin.boolean" = { fg = "orange" }
+"constant.character" = { fg = "green" }
 "constant.character.escape" = { fg = "cyan" }
 "constructor" = { fg = "blue" }
 "function" = { fg = "blue" }
@@ -22,6 +23,8 @@
 
 "type" = { fg = "yellow" }
 "type.builtin" = { fg = "teal" }
+"type.enum.variant" = { fg = "blue" }
+"type.enum.variant.builtin" = { fg = "yellow" }
 "variable.builtin" = { fg = "red" }
 "variable.parameter" = { fg = "fg" }
 "variable.other.member" = { fg = "red" }

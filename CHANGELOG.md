@@ -2,6 +2,11 @@
 
 All notable changes to the "onedark-vibrant-vscode" extension will be documented in this file.
 
+## 1.6.0
+
+- VS Code: namespaces are yellow italic, numeric and primitive types are teal, and Rust attribute names like `derive` are cyan.
+- Helix: character literals are green like strings, and enum variant definitions are blue like constructors. `Some`, `None`, `Ok` and `Err` stay yellow.
+
 ## 1.5.0
 
 - Builtin types are teal #60D1C3, set apart from cyan builtin functions.

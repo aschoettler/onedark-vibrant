@@ -203,6 +203,31 @@
       }
     },
     {
+      "scope": ["entity.name.type.numeric", "entity.name.type.primitive"],
+      "settings": {
+        "foreground": "#60D1C3"
+      }
+    },
+    {
+      "scope": "entity.name.namespace",
+      "settings": {
+        "foreground": "#E0C787",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "meta.attribute.rust",
+      "settings": {
+        "foreground": "#76E0EA"
+      }
+    },
+    {
+      "scope": "meta.attribute.rust punctuation",
+      "settings": {
+        "foreground": "#DCDFE4"
+      }
+    },
+    {
       "scope": "variable",
       "settings": {
         "foreground": "#F7768E"
